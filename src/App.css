@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-ul li{
+  display:inline-block;
+  padding: 10px 10px;
+}
+
+.nav-ul li a{
+  padding: 0;
+  background-color: white;
+  text-decoration: none;
+}
+.nav-ul {
+  padding: 0;
+  background-color: yellowgreen;
+  text-decoration: none;
+}
+
+.footer{
+  position:absolute;
+  bottom: 0;
+  text-align:center;
+  width: 100%;
+  background-color:skyblue;
+}
